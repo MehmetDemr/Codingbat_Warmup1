@@ -1,7 +1,7 @@
 # Codingbat_Warmup1
 ## Overview
 
-This is a simple algorithm application developed in C# using Console Application.
+-This is a simple algorithm application developed in C# using Console Application.
 
 ## Features
 
@@ -23,4 +23,4 @@ This is a simple algorithm application developed in C# using Console Application
 
 ## Contributions
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
+-Contributions are welcome! Feel free to open issues or submit pull requests.
